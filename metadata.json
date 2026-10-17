@@ -1,0 +1,6 @@
+{
+  "name": "متجر رواق مصر | Riwaq Egypt",
+  "description": "منصة السوق المصري للمنتجات والحرف اليدوية المصرية بالجنيه المصري، تدعم حسابات التجار وبوابة موافقة الإدارة بنظام العمولة والإعلانات المدفوعة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
